@@ -1,4 +1,4 @@
-# Bitcoin Whitepaper Exercises - This is My FAUK
+# Bitcoin Whitepaper Exercises - This is My Iteration
 
 In these exercises, you will learn about blockchains from the perspective of the [original Bitcoin Whitepaper](https://bitcoin.org/en/bitcoin-paper).
 
